@@ -5,17 +5,17 @@ Analysis of the data on e-learning platform
 
 Product manager Vasily asked to analyze completed lessons and answer the following questions:
 
-**1.** How many students successfully passed only one course? (Successful completion is passing the exam for the course) (7 points).
+**1.** How many students successfully passed only one course? (Successful completion is passing the exam for the course).
 
-**2.** Identify the hardest and easiest exams: find the courses and exams within the course that have the lowest and highest completion rates*. (5 points)
+**2.** Identify the hardest and easiest exams: find the courses and exams within the course that have the lowest and highest completion rates*. 
 
-**3.** For each subject, determine the average time it takes to pass exams (by passing, we mean the last successful passing of the exam by the student). (5 points)
+**3.** For each subject, determine the average time it takes to pass exams (by passing, we mean the last successful passing of the exam by the student). 
 
-**4.** Identify the most popular courses (TOP-3) by the number of registrations. Also, courses with the highest churn (TOP-3). (8 points)
+**4.** Identify the most popular courses (TOP-3) by the number of registrations. Also, courses with the highest churn (TOP-3).
 
-**5.** Write a python function that allows for cohort (semester) analysis. From the beginning of 2013 to the end of 2014, identify the semester with the lowest course completion rate and the longest average course completion times. (10 points)
+**5.** Write a python function that allows for cohort (semester) analysis. From the beginning of 2013 to the end of 2014, identify the semester with the lowest course completion rate and the longest average course completion times.
 
-**6.** Often, audience quality analysis uses segmentation approaches. Using python, build adapted RFM clusters of students to qualitatively assess your audience. In the adapted clustering, you can choose the following metrics: R - average time to pass one exam, F - course completion rate, M - average number of points received for the exam. Describe in detail how you created the clusters. For each RFM segment, build boundaries for the metrics of recency, frequency, and monetary for interpreting these clusters. An example of such a description: RFM segment 132 (recency = 1, frequency = 3, monetary = 2) has boundaries for recency metrics from 130 to 500 days, frequency from 0.1 to 0.5, and monetary from 55 to 72 points. The approach description can be found [here](https://medianation.ru/blog/analitika/avtomatizatsiya-rfm-analiza-kak-segmentirovat-klientskuyu-bazu-na-python/). (35 points)
+**6.** Often, audience quality analysis uses segmentation approaches. Using python, build adapted RFM clusters of students to qualitatively assess your audience. In the adapted clustering, you can choose the following metrics: R - average time to pass one exam, F - course completion rate, M - average number of points received for the exam. Describe in detail how you created the clusters. For each RFM segment, build boundaries for the metrics of recency, frequency, and monetary for interpreting these clusters. An example of such a description: RFM segment 132 (recency = 1, frequency = 3, monetary = 2) has boundaries for recency metrics from 130 to 500 days, frequency from 0.1 to 0.5, and monetary from 55 to 72 points. The approach description can be found [here](https://medianation.ru/blog/analitika/avtomatizatsiya-rfm-analiza-kak-segmentirovat-klientskuyu-bazu-na-python/).
 
 *_completion rate_ = number of successful exams / number of all attempts to pass the exam
 
