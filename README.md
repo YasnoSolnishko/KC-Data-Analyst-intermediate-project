@@ -3,7 +3,7 @@ Analysis of the data on e-learning platform
 
 ## e-learning project description: variant 2
 
-Product manager Vasily asked you to analyze completed lessons and answer the following questions:
+Product manager Vasily asked to analyze completed lessons and answer the following questions:
 
 **1.** How many students successfully passed only one course? (Successful completion is passing the exam for the course) (7 points).
 
