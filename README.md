@@ -1,7 +1,7 @@
 # KC-Data-Analyst-intermediate-project
 Analysis of the data on e-learning platform
 
-## e-learning project description: variant 2
+## e-learning project description:
 
 Product manager Vasily asked to analyze completed lessons and answer the following questions:
 
